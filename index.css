@@ -688,12 +688,13 @@ nav.shadow {
 
 .img_one {
     border-radius: 100px 100px 0 100px;
-    height: 50vh;
+    height: 100%;
     object-fit: cover;
 }
 
 .section_three_sub_container_img img:nth-child(2) {
     border-radius: 50%;
+    width: 100%;
     border: 3px dashed var(--tertiary_color);
     padding: .5rem;
 }
